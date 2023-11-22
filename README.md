@@ -1,6 +1,6 @@
 # OpenWeather
 
-API Call Using Python
+API call using Python and SQLite
 
 Includes embedded forecast examples for offline testing.
 
