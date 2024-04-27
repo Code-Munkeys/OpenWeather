@@ -44,7 +44,7 @@ api_key = "{API key}"
 lat = "51.509865" #London, UK
 lon = "-0.118092"
 
-url = "https://api.openweathermap.org/data/2.5/onecall?lat=%s&lon=%s&appid=%s" % (lat, lon, api_key)
+url = "https://api.openweathermap.org/data/3.0/onecall?lat=%s&lon=%s&appid=%s" % (lat, lon, api_key)
 
 TempUnitType = 0
 TimeOffset = 0.0
