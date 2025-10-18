@@ -1,4 +1,4 @@
-# Developed by Franz Ayestaran - http://franz.ayestaran.co.uk
+# Developed by Franz Ayestaran - https://franz.ayestaran.dev
 
 # You may use this code in your own projects and upon doing so, you the programmer are solely
 # responsible for determining it's worthiness for any given application or task. Here clearly
